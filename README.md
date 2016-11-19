@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/muharrem888/mta/master/banner.png)
+![banner](https://raw.githubusercontent.com/muharrem888/mta/master/banner.png)
 #Roadmap
 ###(-) Vehicle sounds
 _custom vehicle sounds_
