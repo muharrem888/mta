@@ -1,4 +1,4 @@
-![alt tag](https://camo.githubusercontent.com/34f55bf1b3200576253cfd348ff20a35e1e946c1/687474703a2f2f686f6d65706167652e756e697669652e61632e61742f7765726e65722e726f6269747a612f6d61726b646f776e2f73637265656e73686f742e706e67)
+![alt tag](http://3.bp.blogspot.com/-0rspt0EE0MA/U36MbzzWrYI/AAAAAAAABgI/THjinio9oyE/s1600/logo.png)
 #Roadmap
 ###(-) Vehicle sounds
 _custom vehicle sounds_
