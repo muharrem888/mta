@@ -39,6 +39,6 @@ _attack bandit zone's make your own strategy and earn items_
 
 ##NOTE: 
             This is my dayz server's roadmap. Server will be opened soon.
-=Finished jobs shown as +
-=Unfinished jobs shown as -
-New features coming soon
+            Finished jobs shown as +
+            Unfinished jobs shown as -
+            New features coming soon
