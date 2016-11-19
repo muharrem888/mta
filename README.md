@@ -1,4 +1,4 @@
-#Roadmap
+#Roadmap (0%/100%)
 ![banner](https://raw.githubusercontent.com/muharrem888/mta/master/banner.png)
 ###(-) Custom sniper shooting time
 _ex: DMR 1s per shot, VSS 0.5s_
