@@ -2,7 +2,7 @@
 ###(+) Vehicle sounds
 ###(+) New inventory (like arma2)
 ###(+) Advanced vehicle system (remove vehicle parts,a dding armor, gear system)
-**remove vehicle parts,a dding armor, gear system
+_remove vehicle parts,a dding armor, gear system_
 ###(+) New login
 ###(+) Character selector
 ###(+) Donate, Settings, Top 10, Support panel
