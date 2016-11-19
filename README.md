@@ -4,7 +4,7 @@
 _ex: DMR 1s per shot, VSS 0.5s_
 ###(-) Vehicle armor system
 _reduce damage for cars_
-###(-) Player armor system
+###(-) Player armor/vest system
 _reduce damage for players_
 ###(-) New weapons
 _no available description_
