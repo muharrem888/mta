@@ -1,4 +1,4 @@
-![alt tag](http://3.bp.blogspot.com/-0rspt0EE0MA/U36MbzzWrYI/AAAAAAAABgI/THjinio9oyE/s1600/logo.png)
+![alt tag](https://raw.githubusercontent.com/muharrem888/mta/master/banner.png)
 #Roadmap
 ###(-) Vehicle sounds
 _custom vehicle sounds_
