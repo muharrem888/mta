@@ -1,9 +1,19 @@
 ![banner](https://raw.githubusercontent.com/muharrem888/mta/master/banner.png)
 #Roadmap
+###(-) Custom sniper shooting time
+_ex: DMR 1s per shot, VSS 0.5s_
+###(-) Vehicle armor system
+_reduce damage for cars_
+###(-) New weapons
+_no available description_
+###(-) Advanced oil system
+_no available description_
+###(-) Weapon sounds
+_custom vehicle sounds_
 ###(-) Vehicle sounds
 _custom vehicle sounds_
 ###(-) Bug fixes
-_no need description_
+_no available description_
 ###(-) New inventory (like arma2)
 _new inventory easy, dx and useable_
 ###(-) Advanced vehicle system 
