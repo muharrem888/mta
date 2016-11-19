@@ -22,6 +22,7 @@ _sell your items and earn coin and buy new items or cars_
 ###(-) Bandit zones
 _attack bandit zone's make your own strategy and earn items_
 
-##NOTE##: = This is my dayz server's roadmap. Server will be opened soon.
+##NOTE##: 
+          = This is my dayz server's roadmap. Server will be opened soon.
           = Finished jobs shown as +
           = Unfinished jobs shown as -
