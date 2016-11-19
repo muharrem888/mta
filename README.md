@@ -1,6 +1,8 @@
 #Roadmap
 ###(-) Vehicle sounds
 _custom vehicle sounds_
+###(-) Bug fixes
+_no need description_
 ###(-) New inventory (like arma2)
 _new inventory easy, dx and useable_
 ###(-) Advanced vehicle system 
