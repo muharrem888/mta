@@ -13,7 +13,7 @@ _no available description_
 ###(-) Weapon sounds
 _custom vehicle sounds_
 ###(-) Vehicle sounds
-_custom vehicle sounds_
+_custom weapon sounds_
 ###(-) Bug fixes
 _no available description_
 ###(-) New inventory (like arma2)
