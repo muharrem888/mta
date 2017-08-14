@@ -1,1 +1,1 @@
-dbConnTrue,das
+Test Server,30
